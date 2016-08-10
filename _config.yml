@@ -1,0 +1,47 @@
+permalink: /:categories/:year/:month/:day/:title
+
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "Rmd"]
+auto: true
+highlighter: rouge
+
+title: jfisher-usgs
+tagline: blog
+author :
+  name: Jason C Fisher
+  email: jfisher@usgs.gov
+  github: jfisher-usgs
+  twitter: username
+  feedburner: jfisher-usgs
+
+production_url: http://jfisher-usgs.github.io
+
+markdown: kramdown
+
+gems: [jekyll-paginate]
+paginate: 3
+
+JB:
+  version: 0.2.13
+
+  BASE_PATH: false
+  ASSET_PATH: false
+  archive_path: /archive.html
+  categories_path: /categories.html
+  tags_path: /tags.html
+
+  comments:
+    provider: disqus
+    disqus:
+      short_name: jfisherusgs
+
+  analytics:
+    provider: google
+    google:
+        tracking_id: 'UA-32238582-1'
+    getclicky:
+      site_id:
+    mixpanel:
+        token: '_MIXPANEL_TOKEN_'
+
+  sharing:
+    provider: false
