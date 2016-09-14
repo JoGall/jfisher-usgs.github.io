@@ -17,7 +17,7 @@ Commands for installing the package are as follows:
 
 ```r
 repos <- c("http://owi.usgs.gov/R", getOption("repos"))
-install.packages("wrv", repos = repos, dependencies = TRUE, type = "both")  # about 100 MB, so be patient
+install.packages("wrv", repos = repos, dependencies = TRUE)  # about 100 MB, so be patient
 ```
 
 While many of the functions are intended for non-general use, there are a few functions that the larger R community might find of interest.
