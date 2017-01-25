@@ -5,7 +5,7 @@ title: Curriculum vitae
 
 ## Jason C. Fisher
 
-[ORCID](http://orcid.org/): [0000-0001-9032-8912](http://orcid.org/0000-0001-9032-8912)
+[ORCID](https://orcid.org/): [0000-0001-9032-8912](https://orcid.org/0000-0001-9032-8912)
 
 ### Contact
 
@@ -20,7 +20,7 @@ title: Curriculum vitae
 - M.S. in Civil Engineering, UCLA, hydrology and water
   resources program, received March 2003.
 - M.S. in Environmental Systems, Humboldt State University
-  ([HSU](http://www.humboldt.edu/engineering/)), environmental resources
+  ([HSU](https://www2.humboldt.edu/engineering/)), environmental resources
   engineering option, received May 2000.
 - B.S. in Environmental Resources Engineering, HSU,
   water resources emphasis, received May 1998.
@@ -28,7 +28,7 @@ title: Curriculum vitae
 ### Employment
 
 - 2008--present, Hydrologist, U.S. Geological Survey
-  ([USGS](http://id.water.usgs.gov/INL/)),
+  ([USGS](https://id.water.usgs.gov/INL/)),
   Idaho Water Science Center, Idaho National Laboratory Project Office.
 - 2008, Research Engineer, UCLA, Center for Embedded Networked Sensing
   ([CENS](http://research.cens.ucla.edu/)), research and lecturing duties.
@@ -45,7 +45,7 @@ title: Curriculum vitae
   Engineering, UCLA.
 - 2000--01, Computer Programmer, U.S. Forest Service, Pacific Southwest
   Research Station, Redwood Sciences Laboratory
-  ([RSL](http://www.fs.fed.us/psw/locations/arcata/index.shtml)).
+  ([RSL](https://www.fs.fed.us/psw/locations/arcata/index.shtml)).
 - 1997--00, Hydrologic Technician, U.S. Forest Service, Pacific Southwest
   Research Station, RSL.
 
@@ -54,10 +54,10 @@ title: Curriculum vitae
 - Best groundwater report of 2013 from a USGS Water Science Center for
   "Optimization of water-level monitoring networks in the eastern Snake River
   Plain aquifer using a kriging-based genetic algorithm method",
-  [intranet](http://water.usgs.gov/usgs/ogw/best-report/).
+  [intranet](https://water.usgs.gov/usgs/ogw/best-report/).
 - UCLA Civil and Environmental Engineering departmental fellowship,
   2000--01 academic year.
-- Engineer-In-Training, [FE exam](http://ncees.org/exams/fe-exam/),
+- Engineer-In-Training, [FE exam](http://ncees.org/engineering/fe/),
   license number XE104350, issued on Jan. 29, 1998.
 
 ### Publications
@@ -82,39 +82,39 @@ title: Curriculum vitae
   eastern Snake River Plain aquifer using a kriging-based genetic algorithm
   method: U.S. Geological Survey Scientific Investigations Report 2013-5120
   (DOE/ID-22224), 74 p.,
-  <http://pubs.usgs.gov/sir/2013/5120/>,
-  [news](http://www.circleofblue.org/waternews/2013/world/moneyball-for-groundwater-monitoring-networks/).
+  <https://pubs.usgs.gov/sir/2013/5120/>,
+  [news](http://www.circleofblue.org/2013/world/moneyball-for-groundwater-monitoring-networks/).
 - Twining, B.V., and **Fisher, J.C.**, 2012, Multilevel groundwater monitoring
   of hydraulic head and temperature in the eastern Snake River Plain aquifer,
   Idaho National Laboratory, Idaho, 2009--10: U.S. Geological Survey Scientific
   Investigations Report 2012-5259, 44 p., plus appendixes,
-  <http://pubs.usgs.gov/sir/2012/5259/>.
+  <https://pubs.usgs.gov/sir/2012/5259/>.
 - Bartholomay, R.C., Davis, L.C., **Fisher, J.C.**, Tucker, B.J., and
   Raben, F.A., 2012, Water-quality characteristics and trends for selected
   sites at and near the Idaho National Laboratory, Idaho, 1949--2009:
   U.S. Geological Survey Scientific Investigations Report 2012-5169
   (DOE/ID 22219), 68 p. plus appendixes,
-  <http://pubs.usgs.gov/sir/2012/5169/>.
+  <https://pubs.usgs.gov/sir/2012/5169/>.
 - **Fisher, J.C.**, Rousseau, J.P., Bartholomay, R.C, and Rattray, G.W., 2012,
   A comparison of U.S. Geological Survey three-dimensional model estimates of
   groundwater source areas and velocities to independently derived estimates,
   Idaho National Laboratory and vicinity, Idaho: U.S. Geological Survey
   Scientific Investigations Report 2012-5152 (DOE/ID-22218), 130 p.,
-  <http://pubs.usgs.gov/sir/2012/5152/>.
+  <https://pubs.usgs.gov/sir/2012/5152/>.
 - **Fisher, J.C.**, and Twining, B.V., 2011, Multilevel groundwater monitoring of
   hydraulic head and temperature in the eastern Snake River Plain aquifer,
   Idaho National Laboratory, Idaho, 2007--08:, U.S. Geological Survey
   Scientific Investigations Report 2010-5253, 62 p.,
-  <http://pubs.usgs.gov/sir/2010/5253/>.
+  <https://pubs.usgs.gov/sir/2010/5253/>.
 - Ackerman, D.J., Rousseau, J.P., Rattray, G.W., and **Fisher, J.C.**, 2010,
   Steady-state and transient models of groundwater flow and advective
   transport, Eastern Snake River Plain aquifer, Idaho National Laboratory and
   vicinity, Idaho:, U.S. Geological Survey Scientific Investigations Report
-  2010-5123, 220 p., <http://pubs.usgs.gov/sir/2010/5123/>.
+  2010-5123, 220 p., <https://pubs.usgs.gov/sir/2010/5123/>.
 - Twining, B.V., **Fisher, J.C.**, and Bartholomay, R.C., 2010, Completion summary
   for well NRF-16 near the Naval Reactors Facility, Idaho National Laboratory,
   Idaho:, U.S. Geological Survey Scientific Investigations Report 2010-5101,
-  36 p., <http://pubs.usgs.gov/sir/2010/5101/>.
+  36 p., <https://pubs.usgs.gov/sir/2010/5101/>.
 - Rundel, P.W., Graham, E.A., Allen, M.F., **Fisher, J.C.**, and Harmon, T.C., 2009,
   Environmental sensor networks in ecological research:
   New Phytologist, 182(3), p. 589-607,
@@ -142,7 +142,7 @@ title: Curriculum vitae
 - **Fisher, J.C.**, 2000, Simulation of partially saturated - saturated flow in
   the Caspar Creek E-Road groundwater system: M.S. thesis, Humboldt State
   University, Arcata, CA, 107 p.,
-  <http://treesearch.fs.fed.us/pubs/7765>.
+  <https://www.treesearch.fs.fed.us/pubs/7765>.
 
 ### Talks
 
@@ -153,8 +153,8 @@ title: Curriculum vitae
   [video](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016/A-Case-Study-in-Reproducible-Model-Building-Simulating-Groundwater-Flow-in-the-Wood-River-Valley-Aqu).
 - USGS Office of Groundwater cyber seminar series, Oct. 9, 2014,
   A path toward reproducible research,
-  [intranet](http://water.usgs.gov/usgs/ogw/cyber-seminars/20141009-fisher/).
-- American Geophysical Union ([AGU](http://www.agu.org/))
+  [intranet](https://water.usgs.gov/usgs/ogw/cyber-seminars/20141009-fisher/).
+- American Geophysical Union ([AGU](https://sites.agu.org/))
   Fall Meeting, San Francisco, CA, Dec. 13, 2013,
   Optimization of water-table monitoring networks in the eastern Snake River
   Plain aquifer using a kriging-based genetic algorithm method.
@@ -218,7 +218,7 @@ title: Curriculum vitae
 ### Service
 
 - Reviewer: USGS,
-  [Journal of Hydrology](http://www.journals.elsevier.com/journal-of-hydrology/)
+  [Journal of Hydrology](https://www.journals.elsevier.com/journal-of-hydrology/)
 
 ### Organizations
 
