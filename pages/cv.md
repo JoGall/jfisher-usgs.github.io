@@ -146,6 +146,10 @@ title: Curriculum vitae
 
 ### Talks
 
+- USGS National Groundwater Workshop,
+  Reno, NV, Aug. 29, 2016,
+  A case study in reproducible model building: simulating groundwater flow in
+  the Wood River Valley aquifer system, Idaho.
 - The R User Conference ([useR!](http://user2016.org/)),
   Stanford University, Stanford, CA, Jun. 28, 2016,
   A case study in reproducible model building: simulating groundwater flow in
@@ -214,6 +218,10 @@ title: Curriculum vitae
 - AGU Chapman Conference on State-of-the-Art in Hillslope Hydrology, Sunriver,
   OR, Oct. 8, 2001, Simulation of partially saturated--saturated flow in
   the Caspar Creek E-Road groundwater system.
+
+### Code
+
+- See version control repositories on [GitHub](https://github.com/jfisher-usgs).
 
 ### Service
 

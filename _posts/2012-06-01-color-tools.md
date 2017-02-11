@@ -16,8 +16,7 @@ To access these functions install the
 dependencies:
 
 ```r
-repo <- "http://cran.us.r-project.org"
-install.packages("RSurvey", repos = repo, dependencies = TRUE, type = "both")
+install.packages("RSurvey")
 ```
 
 ## Choose Color
