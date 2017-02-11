@@ -233,3 +233,5 @@ title: Curriculum vitae
 - Member of the AGU, since 1998
 
 ![center](/figs/cv.jpg)
+
+##### Idaho National Laboratory, Eastern Snake River Plain, ID
