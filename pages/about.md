@@ -11,7 +11,8 @@ My research career started at the U.S. Forest Service Pacific Southwest Research
 After completing my education, I was a postdoctoral researcher in the School of Engineering at University of California Merced, 2004--2008.
 In 2008, I moved to the USGS where I'm the lead modeler at the [Idaho National Laboratory Project Office](https://id.water.usgs.gov/INL/).
 My research experience is varied, including groundwater flow and contaminant transport simulations,
-optimization of long-term monitoring networks, multilevel groundwater monitoring, water-quality characteristics and trends.
+optimization of long-term monitoring networks, multilevel groundwater monitoring,
+water-quality characteristics and trends, and hillslope hydrology.
 Recently I've been focusing on [reproducible model building]({{ site.github.url }}/r/2016/08/04/wrv-case-study).
 
 My science goal is to utilize collected field data to develop models for groundwater systems,

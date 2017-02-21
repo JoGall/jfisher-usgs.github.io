@@ -29,11 +29,6 @@ JB:
   categories_path: /categories.html
   tags_path: /tags.html
 
-  comments:
-    provider: disqus
-    disqus:
-      short_name: jfisherusgs
-
   analytics:
     provider: google
     google:

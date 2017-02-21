@@ -221,7 +221,7 @@ title: Curriculum vitae
 
 ### Code
 
-- See version control repositories on [GitHub](https://github.com/jfisher-usgs).
+- See code repositories on [GitHub](https://github.com/jfisher-usgs).
 
 ### Service
 
