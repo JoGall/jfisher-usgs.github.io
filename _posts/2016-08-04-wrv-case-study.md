@@ -28,5 +28,3 @@ For a general overview of the project, I'll recommend my
 <div style="text-align:center;padding: 1% 0%;">
 <iframe src="https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016/A-Case-Study-in-Reproducible-Model-Building-Simulating-Groundwater-Flow-in-the-Wood-River-Valley-Aqu/player" width="560" height="315" allowFullScreen frameBorder="0"></iframe>
 </div>
-
-Any comments or suggestions regarding our approach to reproducible model building can be left below.
