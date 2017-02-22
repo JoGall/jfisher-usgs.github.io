@@ -9,7 +9,7 @@ title: Curriculum vitae
 
 ### Contact
 
-- Email: jfisher@usgs.gov
+- Email: <jfisher@usgs.gov>
 - Telephone: 209-261-2905
 
 ### Education
