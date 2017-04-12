@@ -65,8 +65,8 @@ title: Curriculum vitae
 - Bartholomay, R.C., Maimer, N.V., Rattray, G.W., and **Fisher, J.C.**, 2017,
   An update of hydrologic conditions and distribution of selected constituents in water,
   eastern Snake River Plain aquifer and perched groundwater zones,
-  Idaho National Laboratory, Idaho, emphasis 2012–15: U.S. Geological Survey
-  Scientific Investigations Report 2017–5021 (DOE/ID-22242), 87 p.,
+  Idaho National Laboratory, Idaho, emphasis 2012--15: U.S. Geological Survey
+  Scientific Investigations Report 2017-5021 (DOE/ID-22242), 87 p.,
   <https://doi.org/10.3133/sir20175021>.
 - **Fisher, J.C.**, Bartolino, J.R., Wylie, A.H., Sukow, Jennifer, and
   McVay, Michael, 2016, Groundwater-flow model of the Wood River Valley
