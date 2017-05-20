@@ -5,7 +5,7 @@ title: Curriculum vitae
 
 ## Jason C. Fisher
 
-![orcid](/figs/orcid.png)[0000-0001-9032-8912](https://orcid.org/0000-0001-9032-8912)
+<p><a href="http://orcid.org"><img alt="ORCID logo" src="/figs/orcid.png" width="16" height="16" hspace="4" /></a> <a href="http://orcid.org/0000-0001-9032-8912">http://orcid.org/0000-0001-9032-8912</a></p>
 
 ### Contact
 
