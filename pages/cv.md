@@ -72,7 +72,7 @@ title: Curriculum vitae
   McVay, Michael, 2016, Groundwater-flow model of the Wood River Valley
   aquifer system, south-central Idaho: U.S. Geological Survey
   Scientific Investigations Report 2016-5080, 71 p.,
-  <http://dx.doi.org/10.3133/sir20165080>.
+  <https://dx.doi.org/10.3133/sir20165080>.
 - Twining, B.V., and **Fisher, J.C.**, 2015, Multilevel groundwater monitoring
   of hydraulic head and temperature in the eastern Snake River Plain aquifer,
   Idaho National Laboratory, Idaho, 2011--13: U.S. Geological Survey Scientific
